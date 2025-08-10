@@ -1,1 +1,2 @@
-This account is created for accessing badges
+This account is created for accessing badges.
+ 
